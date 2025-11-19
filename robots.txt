@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bao-di-jp.github.io/bao-di/sitemap.xml
